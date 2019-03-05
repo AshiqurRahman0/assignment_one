@@ -1,0 +1,27 @@
+body{
+    background-color: #E3E4EF;
+}
+div{
+    width: 80%;
+    margin: auto;
+}
+table{
+			width: 100%;
+			background: #1485CC;
+			border-collapse: collapse;
+			margin-top: 60px;
+}	
+
+tr{
+    text-align: center;
+}
+th{
+    font-size: 22px;
+    background: #C0C1B8;
+    padding: 10px;
+}
+td{
+    font-size: 18px;
+    background-color: #fff;
+    padding: 10px;
+}
